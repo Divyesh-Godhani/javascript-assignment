@@ -14,6 +14,7 @@ let z = true; // z is truthy because it has a boolean value of true
 
 // - Write three JavaScript statement example which provide falsy value.
 
+
 let a = 0;  // a is falsy because it has a numeric value of 0
 
 let b = ""; // b is falsy because it has an empty string value
